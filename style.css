@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  color: #141414;
+  font-family: "Roboto", sans-serif;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.hero-image {
+  width: 600px;
+  height: 500px;
+}
+
+table {
+  border-collapse: collapse;
+}
+th,
+td,
+tr {
+  border: 1px solid black;
+  padding: 15px;
+  text-align: center;
+}
+svg {
+  float: right;
+  width: 100%;
+}
+fieldset {
+  padding: 20px;
+  width: 30%;
+}
+.list{
+  text-align: center;
+}
